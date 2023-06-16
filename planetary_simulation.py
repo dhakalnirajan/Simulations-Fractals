@@ -61,7 +61,7 @@ So, let's do this!
 
 """
 
-!pip install astroquery
+pip install astroquery
 
 import numpy as np
 import matplotlib.pyplot as plt
